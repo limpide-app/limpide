@@ -29,6 +29,10 @@ Les installeurs ne sont pas encore signés pour Windows et macOS : le système a
 
 Limpide cherche ses nouvelles versions ici même, au démarrage puis deux fois par jour. Il montre leurs nouveautés et demande avant d'installer. Une version n'est installée que si elle porte la signature de Limpide : une version modifiée, ou venue d'ailleurs, est refusée. Sur un poste géré par un service informatique, la variable d'environnement `LIMPIDE_UPDATES=off` coupe la recherche.
 
+## Licence
+
+Limpide s'essaie gratuitement sur un projet d'un seul thème. Une licence nominative, émise par Cybermatik, débloque tous les projets et tous les thèmes ; elle s'installe dans Limpide, Paramètres généraux, carte Licence. Le logiciel est distribué sous [Elastic License 2.0](https://www.elastic.co/licensing/elastic-license).
+
 ## Contact
 
 Une démonstration, un devis, une question : [dimitri.goimbault@cybermatik.fr](mailto:dimitri.goimbault@cybermatik.fr?subject=Limpide).
